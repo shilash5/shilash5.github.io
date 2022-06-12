@@ -29,6 +29,6 @@ module.exports = {
     // basePath: process.env.NEXT_PUBLIC_BASE_PATH,
     // assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH,
     assetPrefix: isProd
-        ? 'https://cdn.statically.io/gh/takiuddinahmed/takiuddinahmed.github.io/gh-pages/'
+        ? 'https://cdn.statically.io/gh/shilash5/shilash5.github.io/gh-pages/'
         : '',
 };
